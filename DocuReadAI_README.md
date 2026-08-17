@@ -64,7 +64,13 @@ DocuReadAI addresses this by using semantic embeddings and vector similarity sea
 ## Solution
 
 DocuReadAI processes uploaded PDF documents through a RAG pipeline.
-
+<img width="1911" height="862" alt="qa_bot" src="https://github.com/user-attachments/assets/7cd4a4e8-c079-404a-8d16-2b88882d1d1f" />
+<img width="547" height="227" alt="load_documents" src="https://github.com/user-attachments/assets/41d778a5-6020-4f67-a995-79cebb0e8b5c" />
+<img width="828" height="220" alt="split_text" src="https://github.com/user-attachments/assets/64211367-710d-4731-94fa-225967ce021a" />
+<img width="927" height="212" alt="embed_documents" src="https://github.com/user-attachments/assets/974a4a8c-1528-4413-9228-ab0c28a49d12" />
+<img width="582" height="191" alt="vector_db" src="https://github.com/user-attachments/assets/6b87bc49-5ff8-4dca-a1ab-b72b892b1859" />
+<img width="635" height="210" alt="retriver" src="https://github.com/user-attachments/assets/d07a6e42-5fd3-46eb-8a6e-c37a5153d5c4" />
+<img width="4560" height="1113" alt="Blank diagram" src="https://github.com/user-attachments/assets/7b73b50f-7172-4a71-8c75-e6efbdb2c617" />
 The high-level workflow is:
 
 ```text
